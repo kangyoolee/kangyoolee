@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./1.png" width="100px" height="50px" title="Github_Logo"/>
+<img src="./bed274dc4e621647f8d35df9cd4bfb47-sticker.png" width="100px" height="50px" title="Github_Logo"/>
 
 <!--
 **kangyoolee/kangyoolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
